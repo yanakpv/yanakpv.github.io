@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: Yana Arkhipova
 author_profile: true
 redirect_from: 
   - /about/
