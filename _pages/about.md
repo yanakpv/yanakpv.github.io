@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-[Bio](#bio) · [Publications](#Publications) · [Talks and Conference Presentations](#Talks)
+[Bio](#bio) · [Publications](#Publications) · [Talks and Posters](#Talks)
 
-## Bio
+## Bio {#bio}
 
 I am a final-year PhD candidate in [cognitive neuroscience at the University of Potsdam](https://www.uni-potsdam.de/en/cogneuro/index), supervised by Milena Rabovsky and Shravan Vasishth. 
 
@@ -53,6 +53,7 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 * Nieuwland, MS., __Arkhipova, Y.__, & Rodríguez-Gómez, P. (2020). Anticipating words during spoken discourse comprehension: A large-scale, pre-registered replication study using brain potentials. *Cortex*. 133, 1-36. [https://doi.org/10.1016/j.cortex.2020.09.007](https://doi.org/10.1016/j.cortex.2020.09.007)
 
 ## Talks {#Talks}
+
 * __Arkhipova, Y.__, Vasishth, S. & Rabovsky, M. (2025) Sentence reanalysis in semantic illusions: Evidence from ERPs. Talk presented at _7th CRC Networking Workshop_, Bielefeld, Germany
   
 * **Arkhipova, Y.**, Vasishth, S., Lopopolo A., & Rabovsky M. (2023). N400 as an index of semantic feature pre-activation. Talk presented at _LACG Meetings_, Leiden University, Netherlands
