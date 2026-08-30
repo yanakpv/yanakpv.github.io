@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Yana Arkhipova
+title: Yana Arkhipova | CV
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,3 +25,13 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 * Ph.D in Cognitive Neuroscience, University of Potsdam, 2027 (expected)
 * MSc Neuroscience of Language, University College London, 2018
 * BA Linguistics and Arabic, University of Westminster, 2015
+
+## Work Experience 
+
+* 2020-Present: Researcher at Potsdam University
+  * 
+  * Supervisors: Milena Rabovsky, Shravan Vasishth
+ 
+
+* 2018-2019: Research Intern at MPI Nijmegen
+  * Supervisor: Mante Nieuwland
