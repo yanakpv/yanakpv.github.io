@@ -29,12 +29,19 @@ Work experience
 Skills
 ======
 * EEG
-  * ERPs, time-frequency, MVPA, BCI
+  * ERPs, time-frequency, MVPA
+  * EEGLAP, FieldTrip, Brainvision
+* Eye-tracking
+  * Data collection, pre-processing 
 * Programming
-  * Matlab, R, Python
+  * Matlab, R, Python, Git
 * Statistical analysis
-  * Mixed-effects models (lme4, brms), Stan
+  * lme4, brms, Stan 
 
+Languages
+======
+* English, Russian, Arabic (reading proficiency), German (B1)
+ 
 
 Publications
 ======
