@@ -28,9 +28,9 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 
 ## Work Experience 
 
-* 2020-Present: Researcher at Potsdam University
+* 2020-Present: Doctoral researcher at Potsdam University
   * Supervisors: Milena Rabovsky, Shravan Vasishth
- 
+  * CRC 1287 "Limits of Variability in Language", funded by the DFG
 
 * 2018-2019: Research Intern at MPI Nijmegen
   * Supervisor: Mante Nieuwland
