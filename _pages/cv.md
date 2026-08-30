@@ -29,13 +29,11 @@ Work experience
 Skills
 ======
 * EEG
-  * ERPs
-  * Time-frequency
-  * MPVA
-  * BCI
+  * ERPs, time-frequency, MVPA, BCI
 * Programming
   * Matlab, R, Python
-* Frequentist and Bayesian Statistical Analysis 
+* Statistical analysis
+  * Mixed-effects models (lme4, brms), Stan
 
 
 Publications
