@@ -11,27 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Cognitive Neuroscience, University of Potsdam, 2027 (expected)
+* MSc Neuroscience of Language, University College London, 2018
+* BA Linguistics and Arabic, University of Westminster, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020-Present: Researcher at Potsdam University
+  * 
+  * 
+  * Supervisors: Milena Rabovsky, Shravan Vasishth
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2019: Research Intern at MPI Nijmegen
+  * Supervisor: Mante Nieuwland
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
 Skills
 ======
 * Skill 1
