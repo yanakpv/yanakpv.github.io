@@ -22,7 +22,7 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 
 ## Education 
 
-* Ph.D in Cognitive Neuroscience, University of Potsdam, 2027 (expected)
+* PhD in Cognitive Neuroscience, University of Potsdam, late 2026 **(expected)**
 * MSc Neuroscience of Language, University College London, 2018
 * BA Linguistics and Arabic, University of Westminster, 2015
 
@@ -50,6 +50,18 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 * __Arkhipova, Y.__, Lopopolo, A., Vasishth, S. & Rabovsky, M. (revise and resubmit, *Language, Cognition and Neuroscience*.). When meaning matters most: Rethinking cloze probability in N400 research. 
 * Nieuwland, MS., __Arkhipova, Y.__, & Rodríguez-Gómez, P. (2020). Anticipating words during spoken discourse comprehension: A large-scale, pre-registered replication study using brain potentials. *Cortex*. 133, 1-36. [https://doi.org/10.1016/j.cortex.2020.09.007](https://doi.org/10.1016/j.cortex.2020.09.007)
 
-## Talks and Conference Presentations {#Talks}
+## Talks {#Talks}
+* __Arkhipova, Y.__, Vasishth, S. & Rabovsky, M. (2025) Sentence reanalysis in semantic illusions: Evidence from ERPs. Talk presented at _7th CRC Networking Workshop_, Bielefeld, Germany
+* **Arkhipova, Y.**, Vasishth, S., Lopopolo A., & Rabovsky M. (2023). N400 as an index of semantic feature pre-activation. Talk presented at _LACG Meetings_, Leiden University, Netherlands
+* __Arkhipova, Y.__, Gonzalez-Peddinghaus, V., Lopopolo, A. & Rabovsky, M. (2022) N400 as an index of semantic feature preactivation. Talk presented at _Processing meets Semantics (PROMS) Workshop_, Utrecht, Netherlands
+
+## Posters 
+
+* **Arkhipova, Y.**, Vasishth, S., Lopopolo A., & Rabovsky M. (2022). The N400 amplitude is best predicted by probability of upcoming semantic features, not lexical items: Theoretical and methodological implications. Poster presented at the _Architectures and Mechanisms for Language Processing Conference_, York, UK.
+
+* **Arkhipova, Y.,** Sostarics, T., Law, R., Xiang, M., & Chow, W.Y. (2019). ‘Nonetheless’ can reverse predictions immediately: Evidence from ERPs. Poster presented at the _25th Architectures and Mechanisms for Language Processing Conference_, Moscow, Russia.
+
+* **Arkhipova, Y.**, Law, R., Xiang, M., & Chow, W.Y. (2019). ‘Nonetheless’ can reverse predictions immediately: Evidence from ERPs. Poster presented at the _32nd annual CUNY Human Sentence Processing Conference_, Boulder, CO.
+
 
 
