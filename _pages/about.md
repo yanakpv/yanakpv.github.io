@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[Bio](#bio) · [Publications](#Publications) · [Talks and Conference Presentations](#Talks)· [Contact](#contact)
+[Bio](#bio) · [Publications](#Publications) · [Talks and Conference Presentations](#Talks)
 
 ## Bio
 
@@ -44,8 +44,12 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 **Languages** — English, Russian, German (B1), Arabic (reading profeciency) \\
 
 
-## Publications 
+## Publications {#Publications}
 
 * __Arkhipova, Y.__, Vasishth, S. & Rabovsky, M. (revise and resubmit, *Journal of Memory and Language* ). Non-veridical processing of role-reversed sentences: Evidence from ERPs and comprehension data. 
 * __Arkhipova, Y.__, Lopopolo, A., Vasishth, S. & Rabovsky, M. (revise and resubmit, *Language, Cognition and Neuroscience*.). When meaning matters most: Rethinking cloze probability in N400 research. 
 * Nieuwland, MS., __Arkhipova, Y.__, & Rodríguez-Gómez, P. (2020). Anticipating words during spoken discourse comprehension: A large-scale, pre-registered replication study using brain potentials. *Cortex*. 133, 1-36. [https://doi.org/10.1016/j.cortex.2020.09.007](https://doi.org/10.1016/j.cortex.2020.09.007)
+
+## Talks and Conference Presentations {#Talks}
+
+
