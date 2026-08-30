@@ -45,9 +45,15 @@ Languages
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+---
+title: "Anticipating words during spoken discourse comprehension: A large-scale, pre-registered replication study using brain potentials"
+date: 2020
+venue: ‘Cortex'
+paperurl: 'https://doi.org/10.1016/j.cortex.2020.09.007'
+citation: ‘Nieuwland, MS., Arkhipova, Y., &amp; Rodríguez-Gómez, P. (20). &quot;Full title.&quot; <i>Journal of Memory and Language</i>, 140, 104512.'
+---
+
   
 Talks
 ======
