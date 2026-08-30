@@ -37,19 +37,12 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
  
 ## Skills 
 
-* EEG
-  * ERPs, time-frequency, MVPA
-  * EEGLAP, FieldTrip, Brainvision
-* Eye-tracking
-  * Data collection, pre-processing 
-* Programming
-  * Matlab, R, Python, Git
-* Statistical analysis
-  * lme4, brms, Stan
+**EEG** — ERPs, time-frequency, MVPA; EEGLAB, FieldTrip, Brainvision
+**Eye-tracking** — data collection, preprocessing
+**Programming** — MATLAB, R, Python, Git
+**Statistics** — lme4, brms, Stan
+**Languages** — English, Russian, German (B1), Arabic (reading profeciency)
 
-## Languages 
-
-* English, Russian, Arabic (reading proficiency), German (B1)
 
 ## Publications 
 
