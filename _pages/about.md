@@ -29,9 +29,30 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 ## Work Experience 
 
 * 2020-Present: Researcher at Potsdam University
-  * 
   * Supervisors: Milena Rabovsky, Shravan Vasishth
  
 
 * 2018-2019: Research Intern at MPI Nijmegen
   * Supervisor: Mante Nieuwland
+ 
+## Skills 
+
+* EEG
+  * ERPs, time-frequency, MVPA
+  * EEGLAP, FieldTrip, Brainvision
+* Eye-tracking
+  * Data collection, pre-processing 
+* Programming
+  * Matlab, R, Python, Git
+* Statistical analysis
+  * lme4, brms, Stan
+
+## Languages 
+
+* English, Russian, Arabic (reading proficiency), German (B1)
+
+## Publications 
+
+* __Arkhipova, Y.__, Vasishth, S. & Rabovsky, M. (revise and resubmit, *Journal of Memory and Language* ). Non-veridical processing of role-reversed sentences: Evidence from ERPs and comprehension data. 
+* __Arkhipova, Y.__, Lopopolo, A., Vasishth, S. & Rabovsky, M. (revise and resubmit, *Language, Cognition and Neuroscience*.). When meaning matters most: Rethinking cloze probability in N400 research. 
+* Nieuwland, MS., __Arkhipova, Y.__, & Rodríguez-Gómez, P. (2020). Anticipating words during spoken discourse comprehension: A large-scale, pre-registered replication study using brain potentials. *Cortex*. 133, 1-36. [https://doi.org/10.1016/j.cortex.2020.09.007](https://doi.org/10.1016/j.cortex.2020.09.007)
