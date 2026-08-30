@@ -45,14 +45,11 @@ Languages
 
 Publications
 ======
+* __Arkhipova, Y.__, Vasishth, S. & Rabovsky, M. (revise and resubmit, *Journal of Memory and Language* ). Non-veridical processing of role-reversed sentences: Evidence from ERPs and comprehension data. 
+* __Arkhipova, Y.__, Lopopolo, A., Vasishth, S. & Rabovsky, M. (revise and resubmit, *Language, Cognition and Neuroscience*.). When meaning matters most: Rethinking cloze probability in N400 research. 
+* Nieuwland, MS., __Arkhipova, Y.__, & Rodríguez-Gómez, P. (2020). Anticipating words during spoken discourse comprehension: A large-scale, pre-registered replication study using brain potentials. *Cortex*. 133, 1-36. [https://doi.org/10.1016/j.cortex.2020.09.007](https://doi.org/10.1016/j.cortex.2020.09.007)
 
----
-title: "Anticipating words during spoken discourse comprehension: A large-scale, pre-registered replication study using brain potentials"
-date: 2020
-venue: ‘Cortex'
-paperurl: 'https://doi.org/10.1016/j.cortex.2020.09.007'
-citation: ‘Nieuwland, MS., Arkhipova, Y., &amp; Rodríguez-Gómez, P. (20). &quot;Full title.&quot; <i>Journal of Memory and Language</i>, 140, 104512.'
----
+
 
   
 Talks
