@@ -19,8 +19,8 @@ Work experience
 ======
 * 2020-Present: Researcher at Potsdam University
   * 
-  * 
   * Supervisors: Milena Rabovsky, Shravan Vasishth
+ 
 
 * 2018-2019: Research Intern at MPI Nijmegen
   * Supervisor: Mante Nieuwland
@@ -28,12 +28,15 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* EEG
+  * ERPs
+  * Time-frequency
+  * MPVA
+  * BCI
+* Programming
+  * Matlab, R, Python
+* Frequentist and Bayesian Statistical Analysis 
+
 
 Publications
 ======
