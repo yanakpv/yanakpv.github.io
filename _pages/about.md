@@ -55,8 +55,8 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 
 * Nieuwland, MS., __Arkhipova, Y.__, & Rodríguez-Gómez, P. (2020). Anticipating words during spoken discourse comprehension: A large-scale, pre-registered replication study using brain potentials. *Cortex*. 133, 1-36. [https://doi.org/10.1016/j.cortex.2020.09.007](https://doi.org/10.1016/j.cortex.2020.09.007)
 
-
-## Talks {#Talks}
+{#Talks}
+## Talks 
 
 * __Arkhipova, Y.__, Vasishth, S. & Rabovsky, M. (2025) Sentence reanalysis in semantic illusions: Evidence from ERPs. Talk presented at _7th CRC Networking Workshop_, Bielefeld, Germany
   
