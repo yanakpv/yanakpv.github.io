@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a final-year PhD candidate in cognitive neuroscience at the University of Potsdam, supervised by Milena Rabovsky and Shravan Vasishth. 
+I am a final-year PhD candidate in [cognitive neuroscience at the University of Potsdam](https://www.uni-potsdam.de/en/cogneuro/index), supervised by Milena Rabovsky and Shravan Vasishth. 
 
 My research uses EEG to study how comprehenders build sentence meaning as it unfolds, using N400 and P600 components as a window into that process. My most recent study examined how readers misinterpret role-reversed sentences. More broadly, I want to understand what these two components actually index---a question that remains surprisingly open given how commonly both are used.
 
