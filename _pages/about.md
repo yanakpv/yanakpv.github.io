@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[Bio](#bio) · [Publications](#Publications) · [Talks and Conference Presentations](#Talks and Conference Presentations)· [Contact](#contact)
+[Bio](#bio) · [Publications](#Publications) · [Talks and Conference Presentations](#Talks)· [Contact](#contact)
 
 ## Bio
 
