@@ -39,7 +39,7 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 * 2023: EEG Research consultant, CRC 1287, University of Potsdam
   * Consulted PhD students on experimentation and EEG data pre-processing
 
-* 2018-2019: Research Intern at MPI Nijmegen
+* 2018-2019: Research Intern at MPI for Psycholinguistics, Nijmegen
   * Supervisor: Mante Nieuwland
  
 ## Skills 
