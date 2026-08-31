@@ -35,7 +35,7 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
   * Supervisors: Milena Rabovsky, Shravan Vasishth
   * CRC 1287 "Limits of Variability in Language", funded by the DFG
 
-* 2023: EEG Research consultant, CRC 1297, University of Potsdam
+* 2023: EEG Research consultant, CRC 1287, University of Potsdam
   * Consulted PhD students on experimentation and EEG data pre-processing
 
 * 2018-2019: Research Intern at MPI Nijmegen
@@ -47,27 +47,29 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 **Eye-tracking** — data collection, preprocessing <br>
 **Programming** — MATLAB, R, Python, Git <br>
 **Statistics** — lme4, brms, Stan <br>
-**Languages** — English, Russian, German (B1), Arabic (reading profeciency) <br>
+**Languages** — English, Russian, German (B1), Arabic (reading proficiency) <br>
 
 
 ## Publications {#Publications}
 
 * __Arkhipova, Y.__, Vasishth, S. & Rabovsky, M. (revise and resubmit, *Journal of Memory and Language* ). Non-veridical processing of role-reversed sentences: Evidence from ERPs and comprehension data.
   
-* __Arkhipova, Y.__, Lopopolo, A., Vasishth, S. & Rabovsky, M. (revise and resubmit, *Language, Cognition and Neuroscience*.). When meaning matters most: Rethinking cloze probability in N400 research.
+* __Arkhipova, Y.__, Lopopolo, A., Vasishth, S., & Rabovsky, M. (revise and resubmit, *Language, Cognition and Neuroscience*). When meaning matters most: Rethinking cloze probability in N400 research.
 
-* Nieuwland, MS., __Arkhipova, Y.__, & Rodríguez-Gómez, P. (2020). Anticipating words during spoken discourse comprehension: A large-scale, pre-registered replication study using brain potentials. *Cortex*. 133, 1-36. [https://doi.org/10.1016/j.cortex.2020.09.007](https://doi.org/10.1016/j.cortex.2020.09.007)
+* Nieuwland, M.S., __Arkhipova, Y.__, & Rodríguez-Gómez, P. (2020). Anticipating words during spoken discourse comprehension: A large-scale, pre-registered replication study using brain potentials. *Cortex*, 133, 1-36. [https://doi.org/10.1016/j.cortex.2020.09.007](https://doi.org/10.1016/j.cortex.2020.09.007)
 
 
 ## Talks {#Talks}
 
-* __Arkhipova, Y.__, Vasishth, S. & Rabovsky, M. (2025) Sentence reanalysis in semantic illusions: Evidence from ERPs. Talk presented at _7th CRC Networking Workshop_, Bielefeld, Germany
+* __Arkhipova, Y.__, Vasishth, S., & Rabovsky, M. (2025) Sentence reanalysis in semantic illusions: Evidence from ERPs. Talk presented at _7th CRC Networking Workshop_, Bielefeld, Germany.
   
-* **Arkhipova, Y.**, Vasishth, S., Lopopolo A., & Rabovsky M. (2023). N400 as an index of semantic feature pre-activation. Talk presented at _LACG Meetings_, Leiden University, Netherlands
+* **Arkhipova, Y.**, Vasishth, S., Lopopolo A., & Rabovsky M. (2023). N400 as an index of semantic feature pre-activation. Talk presented at _LACG Meetings_, Leiden University, Netherlands.
   
-* __Arkhipova, Y.__, Gonzalez-Peddinghaus, V., Lopopolo, A. & Rabovsky, M. (2022) N400 as an index of semantic feature preactivation. Talk presented at _Processing meets Semantics (PROMS) Workshop_, Utrecht, Netherlands
+* __Arkhipova, Y.__, Gonzalez-Peddinghaus, V., Lopopolo, A. & Rabovsky, M. (2022) N400 as an index of semantic feature preactivation. Talk presented at _Processing meets Semantics (PROMS) Workshop_, Utrecht, Netherlands.
 
 ## Posters 
+
+* **Arkhipova, Y.**, Vasishth, S. & Rabovsky M. (2026). Event plausibility influences language comprehension in reversal anomalies: An ERP study. Poster presented at the _Architectures and Mechanisms for Language Processing Conference_, Saarbrücken, Germany.
 
 * **Arkhipova, Y.**, Vasishth, S., Lopopolo A., & Rabovsky M. (2022). The N400 amplitude is best predicted by probability of upcoming semantic features, not lexical items: Theoretical and methodological implications. Poster presented at the _Architectures and Mechanisms for Language Processing Conference_, York, UK.
 
