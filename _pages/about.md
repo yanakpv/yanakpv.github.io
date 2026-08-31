@@ -27,7 +27,7 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 * BA Linguistics and Arabic, University of Westminster, 2015
 
 ## Grants and Awards
-2024: MGK, € — research visit to , University of Melbourne
+2024: MGK Short-term collaboration grant, €3800 — research visit to Vision and Attention Lab, University of Melbourne
 
 ## Work Experience 
 
