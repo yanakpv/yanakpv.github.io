@@ -24,6 +24,7 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 
 * PhD in Cognitive Neuroscience, University of Potsdam, late 2026 **(expected)**
 * MSc Neuroscience of Language, University College London, 2018
+  * Supervisor: Wing-Yee Chow; Thesis: “’Nonetheless’ reverses expectations immediately: evidence from ERPs"
 * BA Linguistics and Arabic, University of Westminster, 2015
 
 ## Grants and Awards
