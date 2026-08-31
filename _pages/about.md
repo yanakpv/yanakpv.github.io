@@ -27,13 +27,16 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 * BA Linguistics and Arabic, University of Westminster, 2015
 
 ## Grants and Awards
-2024: MGK Short-term collaboration grant, €3800 — research visit to Vision and Attention Lab, University of Melbourne
+2023: MGK SFB 1287 Short-term collaboration grant, €3800 — research visit to Vision and Attention Lab, University of Melbourne
 
 ## Work Experience 
 
-* 2020-Present: Doctoral researcher at Potsdam University
+* 2020-Present: Doctoral researcher at University of Potsdam
   * Supervisors: Milena Rabovsky, Shravan Vasishth
   * CRC 1287 "Limits of Variability in Language", funded by the DFG
+
+* 2023: EEG Research consultant, CRC 1297, University of Potsdam
+  * Consulted PhD students on experimentation and EEG data pre-processing
 
 * 2018-2019: Research Intern at MPI Nijmegen
   * Supervisor: Mante Nieuwland
