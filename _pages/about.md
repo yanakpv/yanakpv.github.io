@@ -53,7 +53,7 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 
 ## Publications {#Publications}
 
-* __Arkhipova, Y.__, Vasishth, S. & Rabovsky, M. (revise and resubmit, *Journal of Memory and Language* ). Non-veridical processing of role-reversed sentences: Evidence from ERPs and comprehension data.
+* __Arkhipova, Y.__, Vasishth, S. & Rabovsky, M. (revise and resubmit, *Journal of Memory and Language*). Non-veridical processing of role-reversed sentences: Evidence from ERPs and comprehension data.
   
 * __Arkhipova, Y.__, Lopopolo, A., Vasishth, S., & Rabovsky, M. (revise and resubmit, *Language, Cognition and Neuroscience*). When meaning matters most: Rethinking cloze probability in N400 research.
 
