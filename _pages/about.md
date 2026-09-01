@@ -85,5 +85,11 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 
 * **Arkhipova, Y.**, Law, R., Xiang, M., & Chow, W.Y. (2019). ‘Nonetheless’ can reverse predictions immediately: Evidence from ERPs. Poster presented at the _32nd annual CUNY Human Sentence Processing Conference_, Boulder, CO.
 
+## Professional Development (Selected)
+
+* 10th summer school on Statistical Methods for Linguistics and Psychology, 2026, University of Potsdam, Germany.
+* Understanding and Modelling Linguistic Variability summer school, 2023, University of Potsdam, Germany.
+* CUTTINGEEG - Symposium on cutting-edge methods for EEG research, 2021, Aix-en-Provence, France. 
+* 4th summer school on Statistical Methods for Linguistics and Psychology, 2020, University of Potsdam, Germany.
 
 
