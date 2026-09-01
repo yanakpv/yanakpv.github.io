@@ -80,7 +80,7 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 
 ## Service and Leadership
 
-* 2020-2026: Abstract reviewer for Architectures and Mechanisms for Language Processing Conference (AMLaP)
+* 2020-2026: Reviewer for AMLaP (Architectures and Mechanisms for Language Processing) Conference 
 * 2022: EEG Pre-processing workshop instructor, CRC 1287
 * 2022: Pre-registration workshop instructor, CRC 1287
 * 2019: AMLaP Local organising volunteer, Moscow
