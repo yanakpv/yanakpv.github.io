@@ -23,7 +23,7 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 ## Education 
 
 * PhD in Cognitive Neuroscience, University of Potsdam, late 2026 **(expected)**
-* MSc Neuroscience of Language, University College London, 2018
+* MSc Neuroscience of Language _(with distinction)_, University College London, 2018
   * Supervisor: Wing-Yee Chow; Thesis: “’Nonetheless’ reverses expectations immediately: evidence from ERPs"
 * BA Linguistics and Arabic, University of Westminster, 2015
 
@@ -50,6 +50,13 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 **Statistics** — lme4, brms, Stan <br>
 **Languages** — English, Russian, German (B1), Arabic (reading proficiency) <br>
 
+## Service and Leadership
+
+* 2020-2026: Abstract reviewer for Architectures and Mechanisms for Language Processing Conference (AMLaP)
+* 2022: EEG Pre-processing workshop instructor, CRC 1287
+* 2022: Pre-registration workshop instructor, CRC 1287
+* 2019: AMLaP organisation team, Moscow
+* ReproducibiliTea journal club organiser at Potsdam University
 
 ## Publications {#Publications}
 
