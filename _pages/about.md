@@ -50,13 +50,6 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 **Statistics** — lme4, brms, Stan <br>
 **Languages** — English, Russian, German (B1), Arabic (reading proficiency) <br>
 
-## Service and Leadership
-
-* 2020-2026: Abstract reviewer for Architectures and Mechanisms for Language Processing Conference (AMLaP)
-* 2022: EEG Pre-processing workshop instructor, CRC 1287
-* 2022: Pre-registration workshop instructor, CRC 1287
-* 2019: AMLaP organisation team, Moscow
-* ReproducibiliTea journal club organiser at Potsdam University
 
 ## Publications {#Publications}
 
@@ -84,6 +77,14 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 * **Arkhipova, Y.,** Sostarics, T., Law, R., Xiang, M., & Chow, W.Y. (2019). ‘Nonetheless’ can reverse predictions immediately: Evidence from ERPs. Poster presented at the _25th Architectures and Mechanisms for Language Processing Conference_, Moscow, Russia.
 
 * **Arkhipova, Y.**, Law, R., Xiang, M., & Chow, W.Y. (2019). ‘Nonetheless’ can reverse predictions immediately: Evidence from ERPs. Poster presented at the _32nd annual CUNY Human Sentence Processing Conference_, Boulder, CO.
+
+## Service and Leadership
+
+* 2020-2026: Abstract reviewer for Architectures and Mechanisms for Language Processing Conference (AMLaP)
+* 2022: EEG Pre-processing workshop instructor, CRC 1287
+* 2022: Pre-registration workshop instructor, CRC 1287
+* 2019: AMLaP Local organising volunteer, Moscow
+* ReproducibiliTea journal club organiser at Potsdam University
 
 ## Professional Development (Selected)
 
