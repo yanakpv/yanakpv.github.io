@@ -78,11 +78,15 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 
 * **Arkhipova, Y.**, Law, R., Xiang, M., & Chow, W.Y. (2019). ‘Nonetheless’ can reverse predictions immediately: Evidence from ERPs. Poster presented at the _32nd annual CUNY Human Sentence Processing Conference_, Boulder, CO.
 
+## Teaching Experience
+
+* 2026: ``Intro to EEG and ERP'' lectures as part of Cognitive Neuroscience module for undergraduate and MSc students, Potsdam University
+* 2022: EEG Pre-processing workshop instructor, CRC 1287
+* 2022: Pre-registration workshop instructor, CRC 1287
+
 ## Service and Leadership
 
 * 2020-2026: Reviewer for AMLaP (Architectures and Mechanisms for Language Processing) Conference 
-* 2022: EEG Pre-processing workshop instructor, CRC 1287
-* 2022: Pre-registration workshop instructor, CRC 1287
 * 2019: AMLaP Local organising volunteer, Moscow
 * ReproducibiliTea journal club organiser at Potsdam University
 
