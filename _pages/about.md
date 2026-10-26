@@ -80,7 +80,7 @@ Before starting my PhD I spent a year at the Max Planck Institute for Psycholing
 
 ## Teaching Experience
 
-* 2026: ``Intro to EEG and ERP'' lectures as part of Cognitive Neuroscience module for undergraduate and MSc students, Potsdam University
+* 2026: "Intro to EEG and ERP" lectures as part of the Cognitive Neuroscience module for BSc and MSc students, Potsdam University
 * 2022: EEG Pre-processing workshop instructor, CRC 1287
 * 2022: Pre-registration workshop instructor, CRC 1287
 
